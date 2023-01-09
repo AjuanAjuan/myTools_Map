@@ -32,7 +32,7 @@ function getReviewArr(arr, tempMap, parentid = 0){ // 构造map结构
     })
 }
 
-// arr 结构
+// arr 示例结构
 const data = [
     {
         DefReviewerID: 2,
